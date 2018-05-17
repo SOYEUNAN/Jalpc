@@ -20,9 +20,7 @@ author:  # change following line to your infomation.
   facebook_username: an.soyeun  # Leave blank if you don't have now
   email: soyeunn@gmail.com  # Leave blank if you don't have now
   insta_username:soyeunn #인스타추가
- 
-  # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
-  
+
   skill_icon1:
     - name: icon-apache
     - name: icon-java
