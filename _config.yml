@@ -12,19 +12,14 @@ img_path: /Jalpc/static/assets/img/blog  # url should be '/homepage/static/asset
 
 # author -- index page "about me" section
 author:  # change following line to your infomation.
-  name: Hian  # Be used at blog posts' author.
-  first_name: Hi  # Be used at index page about me section.
-  last_name: an  # Be used at index page about me section.
-  avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
-  github_username: SOYEUNAN  # Leave blank if you don't have now
-  linkedin_id:  # Leave blank if you don't have now 인스타아이디로 로고 교체예정
+  name:Hian  # Be used at blog posts' author.
+  first_name:Hi  # Be used at index page about me section.
+  last_name:an  # Be used at index page about me section.
+  avatar:/static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
+  github_username:SOYEUNAN  # Leave blank if you don't have now
   facebook_username: an.soyeun  # Leave blank if you don't have now
-  twitter_username:   # Leave blank if you don't have now 트위터 없앨예정
   email: soyeunn@gmail.com  # Leave blank if you don't have now
-  cv: http://cv.soyeunn.com  # An online CV can be printed as PDF, leave blank if you don't have now
-  insta_username: soyeunn #인스타추가
-
-#>>>>>>> branch 'master' of https://github.com/SOYEUNAN/SOYEUNAN.github.io.git
+  insta_username:soyeunn #인스타추가
  
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   
@@ -35,7 +30,7 @@ author:  # change following line to your infomation.
     - name: icon-html
     - name: icon-html5-alt
     
-  desc: 쑥쑥 자라나는 햇병아리 개발자ㅇㄹㅇㅁㄴㅇㄻㄴㅇㄹ # Describe yourself.
+  desc:자라나는 햇병아리 개발자# Describe yourself.
 
     
 
