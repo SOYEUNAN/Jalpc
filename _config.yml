@@ -12,14 +12,14 @@ img_path: /Jalpc/static/assets/img/blog  # url should be '/homepage/static/asset
 
 # author -- index page "about me" section
 author:  # change following line to your infomation.
-  name:Hian  # Be used at blog posts' author.
-  first_name:Hi  # Be used at index page about me section.
-  last_name:an  # Be used at index page about me section.
-  avatar:/static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
-  github_username:SOYEUNAN  # Leave blank if you don't have now
+  name: Hian  # Be used at blog posts' author.
+  first_name: Hi  # Be used at index page about me section.
+  last_name: an  # Be used at index page about me section.
+  avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
+  github_username: SOYEUNAN  # Leave blank if you don't have now
   facebook_username: an.soyeun  # Leave blank if you don't have now
   email: soyeunn@gmail.com  # Leave blank if you don't have now
-  insta_username:soyeunn #인스타추가
+  insta_username: soyeunn #인스타추가
 
   skill_icon1:
     - name: icon-apache
@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
     - name: icon-html
     - name: icon-html5-alt
     
-  desc:자라나는 햇병아리 개발자# Describe yourself.
+  desc: 자라나는 햇병아리 개발자# Describe yourself.
 
     
 
