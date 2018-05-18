@@ -27,6 +27,7 @@
     detail: 삼성전자 기흥 AD고도화 프로젝트
     i18n: company_b_job
   icon: fa-plus-square
+  #
 - name:
     detail: 퐁당닷컴
     i18n: company_b
