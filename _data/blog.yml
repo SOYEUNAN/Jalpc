@@ -1,5 +1,5 @@
 # blog page sections 블로그 메뉴바
-- name: Blog
+- name: 새 글
   href: /blog/
 
 # edit following lines to custom your blog page, make sure name is the same as href but capitalized first letter(except HTML)
