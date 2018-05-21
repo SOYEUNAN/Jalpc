@@ -8,7 +8,7 @@ categories: [Database]
 tags: [Jalpc,Jekyll]
 icon: icon-html
 ---
-DB 커넥션 정보입니다.
+##DB 커넥션 정보입니다.
 학원다닐때 "jdbc:oracle:thin:@localhost:1521:kh","kh","kh"); 이부분을 엄청나게 외웠던 기억이 나네요
 KH는 제가 공부할때 쓰던 DB정보입니다. ㅋㅋ
 첫 게시글이네요
