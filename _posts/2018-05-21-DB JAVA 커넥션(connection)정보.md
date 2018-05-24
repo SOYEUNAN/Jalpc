@@ -8,8 +8,7 @@ categories: [Database]
 tags: [Jalpc,Jekyll]
 icon: icon-html
 ---
-DB 커넥션 정보입니다. 
-====================           
+         
 
 
 
