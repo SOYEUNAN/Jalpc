@@ -8,4 +8,4 @@ categories: [github]
 tags: [github,깃허브,블로그, blog, comment, disqus, 깃허브블로그, hian]
 icon: icon-html
 ---
-
+![Alt text](/path/to/img.jpg)
