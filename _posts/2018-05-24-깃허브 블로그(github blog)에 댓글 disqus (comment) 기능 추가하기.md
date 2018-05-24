@@ -20,4 +20,8 @@ https://disqus.com/
 ![Alt text](/static/assets/gitblog/03.JPG)
 좌측에서 General을 선택후 Shortname Your website shortname is "!!!!!!!!!!" 뒤에  부분을 복사해 줍니다.
 ![Alt text](/static/assets/gitblog/04.JPG)
+깃허브의 _config.yml로 돌아와서 아래와 같이 name 부분에 방금 복사한 "!!!!!!!!!!" 부분을 적어줍니다.
+![Alt text](/static/assets/gitblog/05.JPG)
+그럼 생겼네요 힣
+![Alt text](/static/assets/gitblog/06.JPG)
 
