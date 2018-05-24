@@ -63,3 +63,5 @@ Conn = DriverManager.getConnection("jdbc:cubrid:localhost:1521:DB NAME:::", "ID"
 * MDB (엠디비) *
 Class.forName("sun.jdbc.odbc.JdbcOdbcDriver"); 
 Conn = DriverManager.getConnection("jdbc:odbc:DB NAME", "ID", "PASS"); 
+
+{% include disqus.html %}
