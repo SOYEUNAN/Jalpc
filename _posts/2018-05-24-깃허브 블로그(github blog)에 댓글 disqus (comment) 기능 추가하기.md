@@ -6,6 +6,6 @@ desc:
 keywords: "github, 깃허브, 블로그, blog, comment, disqus, 깃허브블로그, Hian"
 categories: [github]
 tags: [github,깃허브,블로그, blog, comment, disqus, 깃허브블로그, hian]
-icon: icon-github
+icon: icon-html
 ---
 
